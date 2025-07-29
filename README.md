@@ -30,14 +30,4 @@
 
 ---
 
-📈 **Estatísticas do GitHub:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagrinGeek&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagrinGeek&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ⚡ *"Seja o código que você quer ver no mundo!"*
