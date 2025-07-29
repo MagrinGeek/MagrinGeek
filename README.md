@@ -21,7 +21,6 @@
 - 📲 Editor de Notas open-source personalizado com bloqueio por biometria (Notally mod)
 
 📚 **Estudei em:** Faculdade Senac — *Redes de Computadores*
-
 📚 **Estudando na:** Unicesumar — *Análise e Desenvolvimento de Sistemas*
 
 🔗 **Links úteis:**
