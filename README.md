@@ -11,21 +11,21 @@
 - Edição de apps open-source (na raça mesmo!)
 
 🛠️ **Skills básicas:**
-- Java, Kotlin, Markdown, Git
+- Java, Kotlin, Markdown, Git (Aprendendo na raça)
 - Android Studio, VS Code
-- Firebase (um pouco), APIs REST
+- Firebase (um pouco), APIs REST (Um pouco)
 
 📱 **Projetos em andamento:**
 - 🔐 App de autenticação sem rastreio
 - 📅 Planner pessoal com bloqueio por biometria
-- 📲 Editor de Notas open-source personalizado (Notally mod)
+- 📲 Editor de Notas open-source personalizado com bloqueio por biometria (Notally mod)
 
+📚 **Estudei em:** Faculdade Senac — *Redes de Computadores*
 📚 **Estudando na:** Unicesumar — *Análise e Desenvolvimento de Sistemas*
 
 🔗 **Links úteis:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-paiva-ti)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MagrinGeek)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/marcelophotohobbie)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/++GIC1h2Ws2_03NTMx)
 
 ---
 
