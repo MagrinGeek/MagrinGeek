@@ -12,13 +12,13 @@
 
 🛠️ **Skills básicas:**
 - Java, Kotlin, Markdown, Git (Aprendendo na raça)
-- Android Studio, VS Code
-- Firebase (um pouco), APIs REST (Um pouco)
+- Android Studio, VS Code (sei não, vou editando onde da erro e tento resolver)
+- Firebase (aprendendo na base da porrada), APIs REST (aprendendo)
 
 📱 **Projetos em andamento:**
 - 🔐 App de autenticação sem rastreio
-- 📅 Planner pessoal com bloqueio por biometria
-- 📲 Editor de Notas open-source personalizado com bloqueio por biometria (Notally mod)
+- 🔐 Gerenciador de arquivos com bloqueio por biometria 
+- 📲 Editor de Notas open-source personalizado com bloqueio por biometria (Notally mod) - Magrin-Notes surgiu!!! Ainda preciso mudar algumas coisas mas já uso o apk no celular.
 
 📚 **Estudei em:** Faculdade Senac — *Redes de Computadores*
 
