@@ -22,7 +22,7 @@
 
 📚 **Estudei em:** Faculdade Senac — *Redes de Computadores*
 
-📚 **Estudando na:** Unicesumar — *Análise e Desenvolvimento de Sistemas*
+📚 **Estudando na:** Unicesumar — *Cybersegurança*
 
 🔗 **Links úteis:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-paiva-ti)
